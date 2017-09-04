@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Active at https://github.com/WadeWegner/sfdx-oss-plugin
+
 # sfdx-userassist-plugin
 
 A plugin that lets you send scratch org login details to user.
